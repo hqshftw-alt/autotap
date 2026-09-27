@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoTap</string>
+    <string name="service_desc">يراقب الشاشة ويضغط زر الحجز تلقائياً عند ظهور الوقت المحدد. للاستخدام الشخصي فقط على حسابك.</string>
+</resources>
