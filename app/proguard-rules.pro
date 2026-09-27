@@ -1,0 +1,2 @@
+-keep class com.alphaxk.autotap.** { *; }
+-keep class androidx.compose.** { *; }
